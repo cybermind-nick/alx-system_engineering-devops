@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -Rd u=rwx, g=rx, o=rx $PWD
+chmod u=rwx, g=rx, o=rw *
